@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\bin\Debug\netcoreapp3.1\CalculoSueldo.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CalculoSueldo\CalculoSueldo\obj\Debug\netcoreapp3.1\CalculoSueldo.genruntimeconfig.cache

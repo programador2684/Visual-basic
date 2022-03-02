@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\bin\Debug\netcoreapp3.1\CondicionCompuesta.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionCompuesta\CondicionCompuesta\obj\Debug\netcoreapp3.1\CondicionCompuesta.genruntimeconfig.cache

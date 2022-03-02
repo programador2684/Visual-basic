@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\bin\Debug\netcoreapp3.1\Suma y Producto.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Suma y Producto\Suma y Producto\obj\Debug\netcoreapp3.1\Suma y Producto.genruntimeconfig.cache

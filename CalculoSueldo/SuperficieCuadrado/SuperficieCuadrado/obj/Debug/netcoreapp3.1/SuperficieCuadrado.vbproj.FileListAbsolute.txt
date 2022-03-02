@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\netcoreapp3.1\SuperficieCuadrado.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\netcoreapp3.1\SuperficieCuadrado.genruntimeconfig.cache

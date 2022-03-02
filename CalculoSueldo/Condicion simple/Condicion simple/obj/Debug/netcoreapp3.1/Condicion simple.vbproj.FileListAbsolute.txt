@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\bin\Debug\netcoreapp3.1\Condicion simple.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicion simple\Condicion simple\obj\Debug\netcoreapp3.1\Condicion simple.genruntimeconfig.cache
