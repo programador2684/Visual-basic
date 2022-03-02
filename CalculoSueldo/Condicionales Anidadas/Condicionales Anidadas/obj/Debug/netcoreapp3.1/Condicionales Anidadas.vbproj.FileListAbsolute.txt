@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\bin\Debug\netcoreapp3.1\Condicionales Anidadas.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\Condicionales Anidadas\Condicionales Anidadas\obj\Debug\netcoreapp3.1\Condicionales Anidadas.genruntimeconfig.cache
