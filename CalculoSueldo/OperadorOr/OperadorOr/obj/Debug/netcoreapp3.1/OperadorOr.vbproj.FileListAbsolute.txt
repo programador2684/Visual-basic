@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\bin\Debug\netcoreapp3.1\OperadorOr.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\OperadorOr\OperadorOr\obj\Debug\netcoreapp3.1\OperadorOr.genruntimeconfig.cache
