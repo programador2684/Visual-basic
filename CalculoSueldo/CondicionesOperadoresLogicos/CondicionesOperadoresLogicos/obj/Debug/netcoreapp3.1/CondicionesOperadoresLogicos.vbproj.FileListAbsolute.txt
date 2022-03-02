@@ -1,0 +1,13 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.deps.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.runtimeconfig.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.runtimeconfig.dev.json
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\bin\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.vbprojAssemblyReference.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.AssemblyInfo.vb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.vbproj.CoreCompileInputs.cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.dll
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\CondicionesOperadoresLogicos\CondicionesOperadoresLogicos\obj\Debug\netcoreapp3.1\CondicionesOperadoresLogicos.genruntimeconfig.cache
