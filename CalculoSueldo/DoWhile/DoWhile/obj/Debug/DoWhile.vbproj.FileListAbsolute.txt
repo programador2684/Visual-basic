@@ -1,0 +1,9 @@
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\bin\Debug\DoWhile.xml
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\obj\Debug\DoWhile.Resources.resources
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\obj\Debug\DoWhile.vbproj.GenerateResource.Cache
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\obj\Debug\DoWhile.xml
+C:\Users\Celuweb\Desktop\Visual basic\CalculoSueldo\DoWhile\DoWhile\obj\Debug\DoWhile.pdb
