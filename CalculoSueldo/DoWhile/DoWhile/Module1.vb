@@ -2,9 +2,9 @@
 
     Sub Main()
         Dim x As Integer
-        x = 0
+        x = 10
 
-        Do While x <= 10
+        Do While x <= 0
             Console.Write(x)
             Console.Write("-")
             x = x + 1
